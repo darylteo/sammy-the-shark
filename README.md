@@ -15,7 +15,7 @@ I've simply included the entire node\_modules folder.
 ```node yy.js```
 
 This starts up a server that will look for a Particle Cloud (both Particle.io and local cloud, if provided).
-Boot up a mobile device and surf to "<your-ip>:55555" and you will see a crappy little userinterface.
+Boot up a mobile device and surf to "your.ip:55555" and you will see a crappy little userinterface.
 
 ## Interface ##
 
